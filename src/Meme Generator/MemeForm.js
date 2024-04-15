@@ -79,7 +79,6 @@ function MemeForm(){
                 {meme.topText && <h3 className="meme--text top">{meme.topText}</h3>}
                 {meme.bottomTtext && <h3 className="meme--text bottom">{meme.bottomTtext}</h3>}
             </div>
-            
         </div>
         
     )
